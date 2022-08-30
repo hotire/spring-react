@@ -9,6 +9,10 @@ function App() {
         Hello world!
       </h1>
       <div className="black-nav">{ post }</div>
+      <div className="list">
+        <h4>글 제목</h4>
+        <p>8월 30일</p>
+      </div>
     </div>
   );
 }
