@@ -19,6 +19,14 @@ function App() {
         </h4>
         <p>8월 30일</p>
       </div>
+      <button onClick={() => {
+        const copy = [...titles];
+        copy[0] = '오마카세';
+        setTitles(copy);
+      }}
+      >
+        수정
+      </button>
     </div>
   );
 }
