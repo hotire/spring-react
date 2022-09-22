@@ -15,6 +15,8 @@
 ### Eslint
 - https://jojoldu.tistory.com/230
 
+## Kotlin is like TypeScript
 
+https://gi-no.github.io/kotlin-is-like-typescript/
 
 
