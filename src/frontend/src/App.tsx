@@ -1,5 +1,6 @@
 import React from 'react';
 import Greetings from "./component/Greetings";
+import GreetingsNotFC from "./component/GreetingsNotFC";
 import logo from './logo.svg';
 import './App.css';
 
@@ -20,7 +21,12 @@ function App() {
           Learn React
         </a>
       </header>
-      <Greetings name="hotire"></Greetings>
+      <Greetings name="hotire" onClick={
+        (name: String) => {
+          console.log(`onClick : ${name}`)
+        }
+      }></Greetings>
+      <GreetingsNotFC name="hotire"></GreetingsNotFC>
     </div>
   );
 }
