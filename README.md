@@ -36,20 +36,8 @@ https://gi-no.github.io/kotlin-is-like-typescript/
 
 ### React.FC
 
-React.FC는 함수를 타이핑해준다.
-
-이름에서 할 수 있는 것처럼. 함수 타이핑은 일반적인 기명 함수에 적용하기 매우 어렵다. 만약 아래와 같은 코드에 함수 타이핑을 적용해본다고 가정해보자.
-
 - https://github.com/DefinitelyTyped/DefinitelyTyped/blob/0beca137d8552f645064b8a622a6e153864c66ee/types/react/index.d.ts#L548-L556
-
-
-
-리액트에서는 크게 두가지 방법으로 컴포넌트를 정의할 수 있다.
-
-- Component를 extending하는 클래스 컴포넌트
-- JSX를 리턴하는 함수형 컴포넌트
-
-https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680#78b9
+- https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680#78b9
 
 
 ## 기타 
