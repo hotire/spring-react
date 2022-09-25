@@ -1,4 +1,5 @@
 import React from 'react';
+import Greetings from "./component/Greetings";
 import logo from './logo.svg';
 import './App.css';
 
@@ -19,6 +20,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Greetings name="hotire"></Greetings>
     </div>
   );
 }

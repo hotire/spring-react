@@ -17,7 +17,8 @@
 
 ## TypeScript
 
-https://react.vlpt.us/
+- https://react.vlpt.us/
+- https://create-react-app.dev/docs/adding-typescript/
 
 ### Kotlin is like TypeScript
 https://gi-no.github.io/kotlin-is-like-typescript/
