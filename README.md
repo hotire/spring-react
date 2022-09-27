@@ -31,6 +31,12 @@
 - https://react.vlpt.us/
 - https://create-react-app.dev/docs/adding-typescript/
 
+### Getting Started
+
+~~~
+npx create-react-app my-app --template typescript
+~~~
+
 ### Kotlin is like TypeScript
 https://gi-no.github.io/kotlin-is-like-typescript/
 
