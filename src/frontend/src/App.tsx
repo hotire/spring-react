@@ -3,6 +3,7 @@ import Greetings from "./component/Greetings";
 import GreetingsNotFC from "./component/GreetingsNotFC";
 import logo from './logo.svg';
 import './App.css';
+import Input from "./component/Input";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
         }
       }></Greetings>
       <GreetingsNotFC name="hotire"></GreetingsNotFC>
+      <Input></Input>
     </div>
   );
 }
