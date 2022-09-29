@@ -26,6 +26,15 @@
 - Component를 extending하는 클래스 컴포넌트
 - JSX를 리턴하는 함수형 컴포넌트
 
+
+### useRef
+
+- useRef 로 특정 DOM 선택하기
+
+JavaScript 를 사용 할 때에는, 우리가 특정 DOM 을 선택해야 하는 상황에 getElementById, querySelector 같은 DOM Selector 함수를 사용해서 DOM 을 선택한다.
+
+그럴 땐, 리액트에서 ref 라는 것을 사용한다.
+
 ## TypeScript
 
 - https://react.vlpt.us/
